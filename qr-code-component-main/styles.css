@@ -10,7 +10,7 @@
 body, html {
     height: 100%;
     margin: 0;
-    background-color: hsl(221, 29%, 75%);
+    background-color: rgb(212, 225, 241);
 }
 
 .grid {
