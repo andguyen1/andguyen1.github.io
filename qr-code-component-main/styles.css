@@ -69,3 +69,34 @@ p {
     align-self: center;
     justify-self:center;
 }
+
+@media only screen and (max-width: 375px) {
+    .grid {
+        width: 100%;
+    }
+
+    .box {
+        width: 90%;
+        max-width: 225px;
+        height: 100%;
+        margin: 5px;
+    }
+
+    h1, p {
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 14px;
+    }
+
+    #qr {
+        width: 90%;
+        max-width: 250px;
+        height: auto;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .grid {
+        width: 1440px;
+    }
+}
