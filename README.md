@@ -11,8 +11,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [Add live site URL here](https://andguyen1.github.io/)
+- Solution URL: [Solution IRL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: [Live Site](https://andguyen1.github.io/)
 
 ## My process
 
