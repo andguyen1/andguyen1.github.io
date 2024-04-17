@@ -1,6 +1,7 @@
 # Frontend Mentor Projects
 
 Author: Andy Nguyen
+
 Frontend Mentor: [@andguyen1](https://www.frontendmentor.io/profile/andguyen1)
 
 ---
