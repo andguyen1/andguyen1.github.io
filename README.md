@@ -4,17 +4,17 @@ Author: Andy Nguyen
 
 ---
 
-## Introduction
-
-Welcome! This repository houses my projects from Frontend Mentor. Each branch showcases a different project, highlighting my frontend development skills.
-
----
-
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Project List](#project-list)
 - [Contact Information](#contact-information)
+
+---
+
+## Introduction
+
+Welcome! This repository houses my projects from Frontend Mentor. Each branch showcases a different project, highlighting my frontend development skills.
 
 ---
 
