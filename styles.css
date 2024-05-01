@@ -49,7 +49,6 @@ body, html {
 .blog-picture {
     margin: 7px;
     height: 200px;
-
 }
 
 #illustration-article {
@@ -138,4 +137,45 @@ body, html {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 375px) {
+
+    .box {
+        width: 90%;
+        max-width: 275px;
+        margin: 5px;
+        height: 430px;
+    }
+
+    .publish-h3 {
+        font-size: 12px;
+    }
+
+    .blogtopic-h2 {
+        font-size: 14px;
+    }
+    
+    .blogname-h1 {
+        font-size: 20px;
+    }
+
+    .blogcontent-p {
+        font-size: 13px;
+    }
+
+    .blog-picture {
+        height: auto;
+    }
+
+    #illustration-article {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .grid {
+        width: 1440px;
+    }
 }
